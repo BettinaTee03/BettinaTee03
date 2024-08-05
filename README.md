@@ -2,11 +2,6 @@
 
 I'm a passionate second-year undergraduate in Data Science and Artificial Intelligence, on a journey to blend the worlds of data and technology to create impactful solutions. My interests span from diving into the depths of data science, unraveling patterns, to crafting seamless and user-friendly experiences on the front end.
 
-## 🌱 I am currently learning 
-+ Databases
-+ Artificial Intelligence
-+ Data Analysis with Computer
-+ Statistics
 
 ## 💻 Technology & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,cpp,js,html,css,react,figma,mysql,r)](https://skillicons.dev)
