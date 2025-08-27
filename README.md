@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a passionate second-year undergraduate in Data Science and Artificial Intelligence, on a journey to blend the worlds of data and technology to create impactful solutions. My interests span from diving into the depths of data science, unraveling patterns, to crafting seamless and user-friendly experiences on the front end.
+I'm a passionate final-year undergraduate in Data Science and Artificial Intelligence, on a journey to blend the worlds of data and technology to create impactful solutions. My interests span from diving into the depths of machine learning and deep learning, unraveling patterns to create a end-to-end solution.
 
 
 ## 💻 Technology & Tools
