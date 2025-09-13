@@ -38,7 +38,7 @@ I'm a passionate final-year undergraduate at Nanyang Technological University, m
 
 ---
 
-#### [SG University Guide](https://github.com/BettinaTee03/SC2006-University-Guide) - Website streamlining university course and career exploration for prospetive students
+#### [SG University Guide](https://github.com/BettinaTee03/SC2006-University-Guide) - Website streamlining university course and career exploration for prospective students
 <p align="center"><img width="1000" height="951" alt="image" src="https://github.com/user-attachments/assets/5eefc865-433d-409d-88aa-577ae82d4d67" /></p>
 
 ---
